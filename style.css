@@ -1,0 +1,94 @@
+body{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+   
+}
+.main{
+    width: 570px;
+}
+img{
+    width: 200px ;
+    height: 200px;
+    border-radius: 50%;
+    
+}
+.main{
+    align-items: center;
+   margin: 0 auto;
+}
+h1{
+    font-weight: 300;
+    font-size: 70px;
+    color: aliceblue;
+}
+.bold{
+    font-weight: bold;
+    color: #99d930;
+}
+h2{
+    font-size: 60px;
+    /* font-weight: 42; */
+
+}
+h3{
+    font-size: 36px;
+}
+
+p{
+    font-size: 16px;
+}
+a{
+    color: #99d930;
+}
+a:hover{
+    color: #131313;
+}
+.a{
+    background-color: rgba(0, 0, 0, 0.638);
+    padding: 100px 0;
+}
+.b{
+    background-color: #FFEAEA;
+    padding: 100px 0;
+}
+.c{
+    background-color: rgba(0, 0, 0, 0.576);
+    padding: 100px 0;
+
+}
+#d{
+color:white;
+}
+#e{
+    color:white;
+    }
+    #f{
+        color:white;
+        width: 400px;
+        }
+button{
+    background-color: #99d930;
+    width: 160px;
+    height: 30px;
+    /* margin-left: 90px; */
+    padding-top: 7px;
+    border: none;
+     color: #252525
+     background-color #99D930
+}
+button:hover{
+    color: #fff
+background #252525
+}
+button{
+    background-color: #99d930;
+    width: 160px;
+    height: 30px;
+    /* margin-left: 180px; */
+    padding-top: 7px; 
+}
+hr{
+    width: 190px;
+}
+
+
